@@ -1,0 +1,16 @@
+M:\Visual Studio Code\P1AR1\C#-Projekt\bin\Debug\net5.0\C#-Projekt.exe
+M:\Visual Studio Code\P1AR1\C#-Projekt\bin\Debug\net5.0\C#-Projekt.deps.json
+M:\Visual Studio Code\P1AR1\C#-Projekt\bin\Debug\net5.0\C#-Projekt.runtimeconfig.json
+M:\Visual Studio Code\P1AR1\C#-Projekt\bin\Debug\net5.0\C#-Projekt.runtimeconfig.dev.json
+M:\Visual Studio Code\P1AR1\C#-Projekt\bin\Debug\net5.0\C#-Projekt.dll
+M:\Visual Studio Code\P1AR1\C#-Projekt\bin\Debug\net5.0\ref\C#-Projekt.dll
+M:\Visual Studio Code\P1AR1\C#-Projekt\bin\Debug\net5.0\C#-Projekt.pdb
+M:\Visual Studio Code\P1AR1\C#-Projekt\obj\Debug\net5.0\C#-Projekt.csproj.AssemblyReference.cache
+M:\Visual Studio Code\P1AR1\C#-Projekt\obj\Debug\net5.0\C#-Projekt.GeneratedMSBuildEditorConfig.editorconfig
+M:\Visual Studio Code\P1AR1\C#-Projekt\obj\Debug\net5.0\C#-Projekt.AssemblyInfoInputs.cache
+M:\Visual Studio Code\P1AR1\C#-Projekt\obj\Debug\net5.0\C#-Projekt.AssemblyInfo.cs
+M:\Visual Studio Code\P1AR1\C#-Projekt\obj\Debug\net5.0\C#-Projekt.csproj.CoreCompileInputs.cache
+M:\Visual Studio Code\P1AR1\C#-Projekt\obj\Debug\net5.0\C#-Projekt.dll
+M:\Visual Studio Code\P1AR1\C#-Projekt\obj\Debug\net5.0\ref\C#-Projekt.dll
+M:\Visual Studio Code\P1AR1\C#-Projekt\obj\Debug\net5.0\C#-Projekt.pdb
+M:\Visual Studio Code\P1AR1\C#-Projekt\obj\Debug\net5.0\C#-Projekt.genruntimeconfig.cache
