@@ -3,7 +3,5 @@ THE **first** iteration of the project to revolutionise humanity.
 
 An detailed description is on its way.
 
-Today is the 03.11.2023
-hey acode edit
 
-Hey web edit
+Try things out and learn more check out our Webpage: https://marcwhere.github.io/P1AR1-Web/
